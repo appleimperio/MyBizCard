@@ -1678,6 +1678,16 @@ export default {
             label: 'Cash App username',
           },
           {
+            name: 'Venmo',
+            icon: 'venmo',
+            href: 'https://account.venmo.com/u/',
+            placeholder: 'username',
+            value: null,
+            color: '#fff',
+            light: 1,
+            label: 'Venmo username without @',
+          },
+          {
             name: 'Siilo',
             icon: 'siilo',
             href: 'https://app.siilo.com/qr/',
